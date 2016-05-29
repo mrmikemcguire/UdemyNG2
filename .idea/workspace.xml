@@ -1,15 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="80509f45-99e2-4ca5-8bbc-d5bbe2e1b4b6" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../UdemyNG2/dev seed/app.component.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../UdemyNG2/dev seed/boot.ts" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../UdemyNG2/.idea/jsLibraryMappings.xml" afterPath="$PROJECT_DIR$/../UdemyNG2/.idea/jsLibraryMappings.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../UdemyNG2/.idea/libraries/Original_node_modules.xml" afterPath="$PROJECT_DIR$/../UdemyNG2/.idea/libraries/Original_node_modules.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../UdemyNG2/.idea/modules.xml" afterPath="$PROJECT_DIR$/../UdemyNG2/.idea/modules.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../UdemyNG2/.idea/vcs.xml" afterPath="$PROJECT_DIR$/../UdemyNG2/.idea/vcs.xml" />
+    <list default="true" id="80509f45-99e2-4ca5-8bbc-d5bbe2e1b4b6" name="Default" comment="cleaned up but puzzle code is not working">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../UdemyNG2/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../UdemyNG2/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../UdemyNG2/dev/app.component.ts" afterPath="$PROJECT_DIR$/../UdemyNG2/dev/app.component.ts" />
     </list>
     <ignored path="Original.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -264,7 +257,7 @@
       <workItem from="1464466009092" duration="264000" />
       <workItem from="1464466803451" duration="849000" />
       <workItem from="1464541384172" duration="1263000" />
-      <workItem from="1464558668856" duration="2948000" />
+      <workItem from="1464558668856" duration="3152000" />
     </task>
     <task id="LOCAL-00001" summary="workflow  with multiple dev files">
       <created>1464559069815</created>
@@ -273,11 +266,18 @@
       <option name="project" value="LOCAL" />
       <updated>1464559069815</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="cleaned up but puzzle code is not working">
+      <created>1464561956393</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1464561956393</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5324000" />
+    <option name="totallyTimeSpent" value="5528000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1027" height="873" extended-state="0" />
@@ -317,7 +317,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="workflow  with multiple dev files" />
-    <option name="LAST_COMMIT_MESSAGE" value="workflow  with multiple dev files" />
+    <MESSAGE value="cleaned up but puzzle code is not working" />
+    <option name="LAST_COMMIT_MESSAGE" value="cleaned up but puzzle code is not working" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
