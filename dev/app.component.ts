@@ -2,7 +2,7 @@ import {Component} from 'angular2/core';
 import {PuzzleComponent} from "./puzzle/puzzle.component";
 
 @Component({
-    selector: 'app',
+    selector: 'my-app',
     template: `
         <my-puzzle></my-puzzle>
         `,
